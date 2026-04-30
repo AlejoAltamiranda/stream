@@ -1,1914 +1,1435 @@
-{
-  "generated_at": "2026-04-30T18:37:55.881110",
-  "source_file": "all_events_except_finished.json",
-  "total_events": 79,
-  "events": [
-    {
-      "hora_utc": "2026-04-30T21:35:00Z",
-      "hora_fin_utc": "2026-05-01T00:50:00Z",
-      "liga": "MLB",
-      "equipos": "Philadelphia Phillies vs San Francisco Giants",
-      "team1": "Philadelphia Phillies",
-      "team2": "San Francisco Giants",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.85,
-      "image": "img/mlb.png",
-      "sport": "mlb",
-      "is_individual_event": false,
-      "status_original": "LIVE",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-philadelphia-phillies/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/golf/22073/1",
-          "calidad": "SD"
-        },
-        {
-          "nombre": "Server 3",
-          "url": "https://embedsports.top/embed/delta/live_mlb_phillies-giants-live-streaming-1292307399/1",
-          "calidad": "SD"
-        },
-        {
-          "nombre": "Server 4",
-          "url": "https://embedsports.top/embed/echo/philadelphia-phillies-vs-san-francisco-giants-baseball-178460/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-04-30T23:00:00Z",
-      "hora_fin_utc": "2026-05-01T02:15:00Z",
-      "liga": "NBA",
-      "equipos": "Atlanta Hawks vs New York Knicks",
-      "team1": "Atlanta Hawks",
-      "team2": "New York Knicks",
-      "team1_country": "usa",
-      "team2_country": "usa",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/nba.png",
-      "sport": "nba",
-      "is_individual_event": false,
-      "status_original": "4 minutes from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-new-york-knicks-vs-atlanta-hawks/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/golf/22046/1",
-          "calidad": "SD"
-        },
-        {
-          "nombre": "Server 3",
-          "url": "https://embedsports.top/embed/echo/atlanta-hawks-vs-new-york-knicks-basketball-498567/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-04-30T23:00:00Z",
-      "hora_fin_utc": "2026-05-01T02:15:00Z",
-      "liga": "WNBA",
-      "equipos": "Indiana Fever vs Dallas Wings",
-      "team1": "Indiana Fever",
-      "team2": "Dallas Wings",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/wnba.png",
-      "sport": "wnba",
-      "is_individual_event": false,
-      "status_original": "4 minutes from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-dallas-wings-vs-indiana-fever/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/golf/22049/1",
-          "calidad": "SD"
-        },
-        {
-          "nombre": "Server 3",
-          "url": "https://embedsports.top/embed/delta/live_wnba-preseason_fever-wings-live-streaming-1284178536/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-04-30T23:30:00Z",
-      "hora_fin_utc": "2026-05-01T02:45:00Z",
-      "liga": "NHL",
-      "equipos": "Minnesota Wild vs Dallas Stars",
-      "team1": "Minnesota Wild",
-      "team2": "Dallas Stars",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/nhl.png",
-      "sport": "nhl",
-      "is_individual_event": false,
-      "status_original": "34 minutes from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-dallas-stars-vs-minnesota-wild/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/golf/22050/1",
-          "calidad": "SD"
-        },
-        {
-          "nombre": "Server 3",
-          "url": "https://embedsports.top/embed/echo/minnesota-wild-vs-dallas-stars-hockey-424433/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-04-30T23:40:00Z",
-      "hora_fin_utc": "2026-05-01T02:55:00Z",
-      "liga": "MLB",
-      "equipos": "Minnesota Twins vs Toronto Blue Jays",
-      "team1": "Minnesota Twins",
-      "team2": "Toronto Blue Jays",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/mlb.png",
-      "sport": "mlb",
-      "is_individual_event": false,
-      "status_original": "44 minutes from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22082/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T00:00:00Z",
-      "hora_fin_utc": "2026-05-01T03:15:00Z",
-      "liga": "NFL",
-      "equipos": "Louisville Kings vs St Louis BattleHawks",
-      "team1": "Louisville Kings",
-      "team2": "St Louis BattleHawks",
-      "team1_country": "usa",
-      "team2_country": "usa",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/sports.png",
-      "sport": "nfl",
-      "is_individual_event": false,
-      "status_original": "1 hour from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-st-louis-battlehawks-vs-louisville-kings/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/delta/live_ufl_louisville-kings-st-louis-battlehawks-live-streaming-1256453289/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T00:00:00Z",
-      "hora_fin_utc": "2026-05-01T03:15:00Z",
-      "liga": "NBA",
-      "equipos": "Philadelphia 76ers vs Boston Celtics",
-      "team1": "Philadelphia 76ers",
-      "team2": "Boston Celtics",
-      "team1_country": "usa",
-      "team2_country": "usa",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/nba.png",
-      "sport": "nba",
-      "is_individual_event": false,
-      "status_original": "1 hour from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/golf/22047/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T01:30:00Z",
-      "hora_fin_utc": "2026-05-01T04:45:00Z",
-      "liga": "NBA",
-      "equipos": "Minnesota Timberwolves vs Denver Nuggets",
-      "team1": "Minnesota Timberwolves",
-      "team2": "Denver Nuggets",
-      "team1_country": "usa",
-      "team2_country": "usa",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/nba.png",
-      "sport": "nba",
-      "is_individual_event": false,
-      "status_original": "2 hours from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-denver-nuggets-vs-minnesota-timberwolves/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/golf/22048/1",
-          "calidad": "SD"
-        },
-        {
-          "nombre": "Server 3",
-          "url": "https://embedsports.top/embed/echo/minnesota-timberwolves-vs-denver-nuggets-basketball-498627/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T02:00:00Z",
-      "hora_fin_utc": "2026-05-01T05:15:00Z",
-      "liga": "NHL",
-      "equipos": "Anaheim Ducks vs Edmonton Oilers",
-      "team1": "Anaheim Ducks",
-      "team2": "Edmonton Oilers",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/nhl.png",
-      "sport": "nhl",
-      "is_individual_event": false,
-      "status_original": "3 hours from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-edmonton-oilers-vs-anaheim-ducks/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/golf/22051/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T17:30:00Z",
-      "hora_fin_utc": "2026-05-01T20:45:00Z",
-      "liga": "Formula 1",
-      "equipos": "Miami Grand Prix Practice 1",
-      "team1": "Miami Grand Prix Practice 1",
-      "team2": "",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/sports.png",
-      "sport": "formula 1",
-      "is_individual_event": false,
-      "status_original": "18 hours from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/miami-grand-prix-practice-1-2408132",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T18:00:00Z",
-      "hora_fin_utc": "2026-05-01T21:15:00Z",
-      "liga": "Soccer",
-      "equipos": "RKC Waalwijk vs Roda JC",
-      "team1": "RKC Waalwijk",
-      "team2": "Roda JC",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "19 hours from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/rkc-waalwijk-vs-roda-jc-2468346",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T18:20:00Z",
-      "hora_fin_utc": "2026-05-01T21:35:00Z",
-      "liga": "MLB",
-      "equipos": "Chicago Cubs vs Arizona Diamondbacks",
-      "team1": "Chicago Cubs",
-      "team2": "Arizona Diamondbacks",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/mlb.png",
-      "sport": "mlb",
-      "is_individual_event": false,
-      "status_original": "19 hours from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22074/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T18:45:00Z",
-      "hora_fin_utc": "2026-05-01T22:00:00Z",
-      "liga": "Soccer",
-      "equipos": "Pisa vs Lecce",
-      "team1": "Pisa",
-      "team2": "Lecce",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "19 hours from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-pisa-vs-lecce/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T19:00:00Z",
-      "hora_fin_utc": "2026-05-01T22:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Leeds United vs Burnley",
-      "team1": "Leeds United",
-      "team2": "Burnley",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "20 hours from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-burnley/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/golf/22044/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T19:00:00Z",
-      "hora_fin_utc": "2026-05-01T22:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Girona vs Mallorca",
-      "team1": "Girona",
-      "team2": "Mallorca",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "20 hours from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-girona-vs-mallorca/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T20:00:00Z",
-      "hora_fin_utc": "2026-05-01T23:15:00Z",
-      "liga": "NBA",
-      "equipos": "Toronto Raptors vs Cleveland Cavaliers",
-      "team1": "Toronto Raptors",
-      "team2": "Cleveland Cavaliers",
-      "team1_country": "usa",
-      "team2_country": "usa",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/nba.png",
-      "sport": "nba",
-      "is_individual_event": false,
-      "status_original": "21 hours from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22066/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T20:30:00Z",
-      "hora_fin_utc": "2026-05-01T23:45:00Z",
-      "liga": "Formula 1",
-      "equipos": "Miami Grand Prix Sprint Qualifying",
-      "team1": "Miami Grand Prix Sprint Qualifying",
-      "team2": "",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/sports.png",
-      "sport": "formula 1",
-      "is_individual_event": false,
-      "status_original": "21 hours from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590080507&tt=t.dhj&dhjLcy=283&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fmiami-grand-prix-sprint-qualifying-2408133&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fmiami-grand-prix-sprint-qualifying-2408133&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T22:40:00Z",
-      "hora_fin_utc": "2026-05-02T01:55:00Z",
-      "liga": "MLB",
-      "equipos": "Detroit Tigers vs Texas Rangers",
-      "team1": "Detroit Tigers",
-      "team2": "Texas Rangers",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/mlb.png",
-      "sport": "mlb",
-      "is_individual_event": false,
-      "status_original": "23 hours from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22076/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T22:45:00Z",
-      "hora_fin_utc": "2026-05-02T02:00:00Z",
-      "liga": "MLB",
-      "equipos": "Pittsburgh Pirates vs Cincinnati Reds",
-      "team1": "Pittsburgh Pirates",
-      "team2": "Cincinnati Reds",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/mlb.png",
-      "sport": "mlb",
-      "is_individual_event": false,
-      "status_original": "23 hours from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22075/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T22:45:00Z",
-      "hora_fin_utc": "2026-05-02T02:00:00Z",
-      "liga": "MLB",
-      "equipos": "Washington Nationals vs Milwaukee Brewers",
-      "team1": "Washington Nationals",
-      "team2": "Milwaukee Brewers",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/mlb.png",
-      "sport": "mlb",
-      "is_individual_event": false,
-      "status_original": "23 hours from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22077/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T23:00:00Z",
-      "hora_fin_utc": "2026-05-02T02:15:00Z",
-      "liga": "NHL",
-      "equipos": "Montreal Canadiens vs Tampa Bay Lightning",
-      "team1": "Montreal Canadiens",
-      "team2": "Tampa Bay Lightning",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/nhl.png",
-      "sport": "nhl",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22068/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T23:05:00Z",
-      "hora_fin_utc": "2026-05-02T02:20:00Z",
-      "liga": "MLB",
-      "equipos": "New York Yankees vs Baltimore Orioles",
-      "team1": "New York Yankees",
-      "team2": "Baltimore Orioles",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/mlb.png",
-      "sport": "mlb",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22078/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T23:10:00Z",
-      "hora_fin_utc": "2026-05-02T02:25:00Z",
-      "liga": "MLB",
-      "equipos": "Tampa Bay Rays vs San Francisco Giants",
-      "team1": "Tampa Bay Rays",
-      "team2": "San Francisco Giants",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/mlb.png",
-      "sport": "mlb",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22081/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T23:10:00Z",
-      "hora_fin_utc": "2026-05-02T02:25:00Z",
-      "liga": "MLB",
-      "equipos": "Miami Marlins vs Philadelphia Phillies",
-      "team1": "Miami Marlins",
-      "team2": "Philadelphia Phillies",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/mlb.png",
-      "sport": "mlb",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22080/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T23:10:00Z",
-      "hora_fin_utc": "2026-05-02T02:25:00Z",
-      "liga": "MLB",
-      "equipos": "Boston Red Sox vs Houston Astros",
-      "team1": "Boston Red Sox",
-      "team2": "Houston Astros",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/mlb.png",
-      "sport": "mlb",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22079/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-01T23:30:00Z",
-      "hora_fin_utc": "2026-05-02T02:45:00Z",
-      "liga": "NHL",
-      "equipos": "Boston Bruins vs Buffalo Sabres",
-      "team1": "Boston Bruins",
-      "team2": "Buffalo Sabres",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/nhl.png",
-      "sport": "nhl",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22069/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T00:00:00Z",
-      "hora_fin_utc": "2026-05-02T03:15:00Z",
-      "liga": "NFL",
-      "equipos": "Columbus Aviators vs Houston Gamblers",
-      "team1": "Columbus Aviators",
-      "team2": "Houston Gamblers",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/sports.png",
-      "sport": "nfl",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-houston-gamblers-vs-columbus-aviators/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T00:00:00Z",
-      "hora_fin_utc": "2026-05-02T03:15:00Z",
-      "liga": "UFC",
-      "equipos": "UFC Fight Night 275 Della Maddalena vs Prates",
-      "team1": "UFC Fight Night 275 Della Maddalena",
-      "team2": "Prates",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/sports.png",
-      "sport": "ufc",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/ufc-fight-night-275-della-maddalena-vs-prates-2449565",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T00:00:00Z",
-      "hora_fin_utc": "2026-05-02T03:15:00Z",
-      "liga": "Boxing",
-      "equipos": "Conah Walker vs Sam Eggington",
-      "team1": "Conah Walker",
-      "team2": "Sam Eggington",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/sports.png",
-      "sport": "boxing",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590286165&tt=t.dhj&dhjLcy=83&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fconah-walker-vs-sam-eggington-2466537&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fconah-walker-vs-sam-eggington-2466537&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T00:00:00Z",
-      "hora_fin_utc": "2026-05-02T03:15:00Z",
-      "liga": "WNBA",
-      "equipos": "Minnesota Lynx vs Toronto Tempo",
-      "team1": "Minnesota Lynx",
-      "team2": "Toronto Tempo",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/wnba.png",
-      "sport": "wnba",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590300768&tt=t.dhj&dhjLcy=87&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fminnesota-lynx-vs-toronto-tempo-2465998&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fminnesota-lynx-vs-toronto-tempo-2465998&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T00:00:00Z",
-      "hora_fin_utc": "2026-05-02T03:15:00Z",
-      "liga": "WWE",
-      "equipos": "SmackDown #1393",
-      "team1": "SmackDown #1393",
-      "team2": "",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/sports.png",
-      "sport": "wwe",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590314981&tt=t.dhj&dhjLcy=129&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fsmackdown-1393-2462394&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fsmackdown-1393-2462394&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T02:00:00Z",
-      "hora_fin_utc": "2026-05-02T05:15:00Z",
-      "liga": "NHL",
-      "equipos": "Utah Mammoth vs Vegas Golden Knights",
-      "team1": "Utah Mammoth",
-      "team2": "Vegas Golden Knights",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/nhl.png",
-      "sport": "nhl",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/golf/22070/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T12:00:00Z",
-      "hora_fin_utc": "2026-05-02T15:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Villarreal vs Levante",
-      "team1": "Villarreal",
-      "team2": "Levante",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-villarreal-vs-levante/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T12:00:00Z",
-      "hora_fin_utc": "2026-05-02T15:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Almere City vs FC Den Bosch",
-      "team1": "Almere City",
-      "team2": "FC Den Bosch",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590366101&tt=t.dhj&dhjLcy=65&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Falmere-city-vs-fc-den-bosch-2468347&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Falmere-city-vs-fc-den-bosch-2468347&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T13:00:00Z",
-      "hora_fin_utc": "2026-05-02T16:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Udinese vs Torino",
-      "team1": "Udinese",
-      "team2": "Torino",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-udinese-vs-torino/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T13:00:00Z",
-      "hora_fin_utc": "2026-05-02T16:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Nantes vs Marseille",
-      "team1": "Nantes",
-      "team2": "Marseille",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-nantes-vs-marseille/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T13:30:00Z",
-      "hora_fin_utc": "2026-05-02T16:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Bayern Munich vs FC Heidenheim",
-      "team1": "Bayern Munich",
-      "team2": "FC Heidenheim",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590413446&tt=t.dhj&dhjLcy=301&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fbayern-munich-vs-fc-heidenheim-2276918&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fbayern-munich-vs-fc-heidenheim-2276918&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T13:30:00Z",
-      "hora_fin_utc": "2026-05-02T16:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Eintracht Frankfurt vs Hamburg",
-      "team1": "Eintracht Frankfurt",
-      "team2": "Hamburg",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590427635&tt=t.dhj&dhjLcy=368&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Feintracht-frankfurt-vs-hamburg-2276920&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Feintracht-frankfurt-vs-hamburg-2276920&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T13:30:00Z",
-      "hora_fin_utc": "2026-05-02T16:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Hoffenheim vs Stuttgart",
-      "team1": "Hoffenheim",
-      "team2": "Stuttgart",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590445047&tt=t.dhj&dhjLcy=113&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fhoffenheim-vs-stuttgart-2276922&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fhoffenheim-vs-stuttgart-2276922&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T13:30:00Z",
-      "hora_fin_utc": "2026-05-02T16:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Union Berlin vs FC Köln",
-      "team1": "Union Berlin",
-      "team2": "FC Köln",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590459033&tt=t.dhj&dhjLcy=162&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Funion-berlin-vs-fc-koln-2276924&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Funion-berlin-vs-fc-koln-2276924&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T13:30:00Z",
-      "hora_fin_utc": "2026-05-02T16:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Werder Bremen vs FC Augsburg",
-      "team1": "Werder Bremen",
-      "team2": "FC Augsburg",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-werder-bremen-vs-fc-augsburg/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T14:00:00Z",
-      "hora_fin_utc": "2026-05-02T17:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Brentford vs West Ham United",
-      "team1": "Brentford",
-      "team2": "West Ham United",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-brentford-vs-west-ham-united/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/golf/22061/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T14:00:00Z",
-      "hora_fin_utc": "2026-05-02T17:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Newcastle United vs Brighton and Hove Albion",
-      "team1": "Newcastle United",
-      "team2": "Brighton and Hove Albion",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590515345&tt=t.dhj&dhjLcy=287&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnewcastle-united-vs-brighton-and-hove-albion-2267421&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnewcastle-united-vs-brighton-and-hove-albion-2267421&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T14:00:00Z",
-      "hora_fin_utc": "2026-05-02T17:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Wolverhampton Wanderers vs Sunderland",
-      "team1": "Wolverhampton Wanderers",
-      "team2": "Sunderland",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-sunderland/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/golf/22063/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T14:15:00Z",
-      "hora_fin_utc": "2026-05-02T17:30:00Z",
-      "liga": "Soccer",
-      "equipos": "Valencia vs Atlético Madrid",
-      "team1": "Valencia",
-      "team2": "Atlético Madrid",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-valencia-vs-atl-tico-madrid/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T14:30:00Z",
-      "hora_fin_utc": "2026-05-02T17:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Arouca vs Santa Clara",
-      "team1": "Arouca",
-      "team2": "Santa Clara",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/arouca-vs-santa-clara-2283608",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T14:30:00Z",
-      "hora_fin_utc": "2026-05-02T17:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Moreirense vs Estrela Amadora",
-      "team1": "Moreirense",
-      "team2": "Estrela Amadora",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590596966&tt=t.dhj&dhjLcy=507&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fmoreirense-vs-estrela-amadora-2283613&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fmoreirense-vs-estrela-amadora-2283613&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T14:30:00Z",
-      "hora_fin_utc": "2026-05-02T17:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Nacional de Madeira vs AVS",
-      "team1": "Nacional de Madeira",
-      "team2": "AVS",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590611277&tt=t.dhj&dhjLcy=233&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnacional-de-madeira-vs-avs-2283614&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnacional-de-madeira-vs-avs-2283614&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T14:30:00Z",
-      "hora_fin_utc": "2026-05-02T17:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Utrecht vs NAC Breda",
-      "team1": "Utrecht",
-      "team2": "NAC Breda",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590625350&tt=t.dhj&dhjLcy=98&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Futrecht-vs-nac-breda-2268439&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Futrecht-vs-nac-breda-2268439&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T15:00:00Z",
-      "hora_fin_utc": "2026-05-02T18:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Paris SG vs Lorient",
-      "team1": "Paris SG",
-      "team2": "Lorient",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590648176&tt=t.dhj&dhjLcy=62&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fparis-sg-vs-lorient-2278395&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fparis-sg-vs-lorient-2278395&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T15:50:00Z",
-      "hora_fin_utc": "2026-05-02T19:05:00Z",
-      "liga": "Soccer",
-      "equipos": "Al-Fateh vs Neom",
-      "team1": "Al-Fateh",
-      "team2": "Neom",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/al-fateh-vs-neom-2311957",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T16:00:00Z",
-      "hora_fin_utc": "2026-05-02T19:15:00Z",
-      "liga": "NFL",
-      "equipos": "DC Defenders vs Dallas Renegades",
-      "team1": "DC Defenders",
-      "team2": "Dallas Renegades",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/sports.png",
-      "sport": "nfl",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-dallas-renegades-vs-dc-defenders/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T16:00:00Z",
-      "hora_fin_utc": "2026-05-02T19:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Como vs Napoli",
-      "team1": "Como",
-      "team2": "Napoli",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-como-vs-napoli/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T16:00:00Z",
-      "hora_fin_utc": "2026-05-02T19:15:00Z",
-      "liga": "Formula 1",
-      "equipos": "Miami Grand Prix Sprint",
-      "team1": "Miami Grand Prix Sprint",
-      "team2": "",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/sports.png",
-      "sport": "formula 1",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/miami-grand-prix-sprint-2408134",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T16:10:00Z",
-      "hora_fin_utc": "2026-05-02T19:25:00Z",
-      "liga": "Soccer",
-      "equipos": "Damac vs Al-Khaleej",
-      "team1": "Damac",
-      "team2": "Al-Khaleej",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590719787&tt=t.dhj&dhjLcy=106&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fdamac-vs-al-khaleej-2311964&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fdamac-vs-al-khaleej-2311964&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T16:30:00Z",
-      "hora_fin_utc": "2026-05-02T19:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Arsenal vs Fulham",
-      "team1": "Arsenal",
-      "team2": "Fulham",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-arsenal-vs-fulham/1",
-          "calidad": "HD"
-        },
-        {
-          "nombre": "Server 2",
-          "url": "https://embedsports.top/embed/golf/22064/1",
-          "calidad": "SD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T16:30:00Z",
-      "hora_fin_utc": "2026-05-02T19:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Deportivo Alavés vs Athletic Bilbao",
-      "team1": "Deportivo Alavés",
-      "team2": "Athletic Bilbao",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/deportivo-alaves-vs-athletic-bilbao-2279724",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T16:30:00Z",
-      "hora_fin_utc": "2026-05-02T19:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Bayer Leverkusen vs RB Leipzig",
-      "team1": "Bayer Leverkusen",
-      "team2": "RB Leipzig",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-rb-leipzig/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T16:45:00Z",
-      "hora_fin_utc": "2026-05-02T20:00:00Z",
-      "liga": "Soccer",
-      "equipos": "Groningen vs Excelsior",
-      "team1": "Groningen",
-      "team2": "Excelsior",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590784024&tt=t.dhj&dhjLcy=244&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fgroningen-vs-excelsior-2268435&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fgroningen-vs-excelsior-2268435&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T17:00:00Z",
-      "hora_fin_utc": "2026-05-02T20:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Metz vs Monaco",
-      "team1": "Metz",
-      "team2": "Monaco",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590800089&tt=t.dhj&dhjLcy=262&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fmetz-vs-monaco-2278391&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fmetz-vs-monaco-2278391&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T17:00:00Z",
-      "hora_fin_utc": "2026-05-02T20:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Toronto FC vs San Jose Earthquakes",
-      "team1": "Toronto FC",
-      "team2": "San Jose Earthquakes",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-toronto-fc-vs-san-jose-earthquakes/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T17:00:00Z",
-      "hora_fin_utc": "2026-05-02T20:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Famalicao vs Benfica",
-      "team1": "Famalicao",
-      "team2": "Benfica",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/famalicao-vs-benfica-2283611",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T18:00:00Z",
-      "hora_fin_utc": "2026-05-02T21:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Al-Hazem vs Al-Hilal",
-      "team1": "Al-Hazem",
-      "team2": "Al-Hilal",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/al-hazem-vs-al-hilal-2329856",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T18:00:00Z",
-      "hora_fin_utc": "2026-05-02T21:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Ajax vs PSV Eindhoven",
-      "team1": "Ajax",
-      "team2": "PSV Eindhoven",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590845748&tt=t.dhj&dhjLcy=91&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fajax-vs-psv-eindhoven-2268432&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fajax-vs-psv-eindhoven-2268432&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T18:30:00Z",
-      "hora_fin_utc": "2026-05-02T21:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Sporting Kansas City vs Seattle Sounders",
-      "team1": "Sporting Kansas City",
-      "team2": "Seattle Sounders",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590859929&tt=t.dhj&dhjLcy=57&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fsporting-kansas-city-vs-seattle-sounders-2406853&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fsporting-kansas-city-vs-seattle-sounders-2406853&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T18:45:00Z",
-      "hora_fin_utc": "2026-05-02T22:00:00Z",
-      "liga": "Soccer",
-      "equipos": "Atalanta vs Genoa",
-      "team1": "Atalanta",
-      "team2": "Genoa",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-atalanta-vs-genoa/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T19:00:00Z",
-      "hora_fin_utc": "2026-05-02T22:15:00Z",
-      "liga": "Soccer",
-      "equipos": "Osasuna vs Barcelona",
-      "team1": "Osasuna",
-      "team2": "Barcelona",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-osasuna-vs-barcelona/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T19:00:00Z",
-      "hora_fin_utc": "2026-05-02T22:15:00Z",
-      "liga": "Soccer",
-      "equipos": "NEC Nijmegen vs SC Telstar",
-      "team1": "NEC Nijmegen",
-      "team2": "SC Telstar",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590919864&tt=t.dhj&dhjLcy=71&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnec-nijmegen-vs-sc-telstar-2268436&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnec-nijmegen-vs-sc-telstar-2268436&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T19:05:00Z",
-      "hora_fin_utc": "2026-05-02T22:20:00Z",
-      "liga": "Soccer",
-      "equipos": "Nice vs Lens",
-      "team1": "Nice",
-      "team2": "Lens",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-nice-vs-lens/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T19:30:00Z",
-      "hora_fin_utc": "2026-05-02T22:45:00Z",
-      "liga": "Soccer",
-      "equipos": "FC Porto vs Alverca",
-      "team1": "FC Porto",
-      "team2": "Alverca",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/fc-porto-vs-alverca-2283612",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T20:00:00Z",
-      "hora_fin_utc": "2026-05-02T23:15:00Z",
-      "liga": "Formula 1",
-      "equipos": "Miami Grand Prix Qualifying",
-      "team1": "Miami Grand Prix Qualifying",
-      "team2": "",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/sports.png",
-      "sport": "formula 1",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/miami-grand-prix-qualifying-2408135",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T20:45:00Z",
-      "hora_fin_utc": "2026-05-03T00:00:00Z",
-      "liga": "Soccer",
-      "equipos": "Real Salt Lake vs Portland Timbers",
-      "team1": "Real Salt Lake",
-      "team2": "Portland Timbers",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "1 day from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-real-salt-lake-vs-portland-timbers/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T23:00:00Z",
-      "hora_fin_utc": "2026-05-03T02:15:00Z",
-      "liga": "UFC",
-      "equipos": "PFL Sioux Falls Storley vs Zendeli",
-      "team1": "PFL Sioux Falls Storley",
-      "team2": "Zendeli",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/sports.png",
-      "sport": "ufc",
-      "is_individual_event": false,
-      "status_original": "2 days from now",
-      "canales": [
-        {
-          "nombre": "No disponible",
-          "url": "https://istreameast.is/links/pfl-sioux-falls-storley-vs-zendeli-2452705",
-          "calidad": "N/A"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T23:15:00Z",
-      "hora_fin_utc": "2026-05-03T02:30:00Z",
-      "liga": "Soccer",
-      "equipos": "Inter Miami vs Orlando City",
-      "team1": "Inter Miami",
-      "team2": "Orlando City",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "2 days from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591001704&tt=t.dhj&dhjLcy=223&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Finter-miami-vs-orlando-city-2406855&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Finter-miami-vs-orlando-city-2406855&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T23:30:00Z",
-      "hora_fin_utc": "2026-05-03T02:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Philadelphia Union vs Nashville SC",
-      "team1": "Philadelphia Union",
-      "team2": "Nashville SC",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "2 days from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-philadelphia-union-vs-nashville-sc/1",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T23:30:00Z",
-      "hora_fin_utc": "2026-05-03T02:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Columbus Crew vs Minnesota United",
-      "team1": "Columbus Crew",
-      "team2": "Minnesota United",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "2 days from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591034511&tt=t.dhj&dhjLcy=182&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fcolumbus-crew-vs-minnesota-united-2406857&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fcolumbus-crew-vs-minnesota-united-2406857&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T23:30:00Z",
-      "hora_fin_utc": "2026-05-03T02:45:00Z",
-      "liga": "Soccer",
-      "equipos": "Atlanta United vs CF Montréal",
-      "team1": "Atlanta United",
-      "team2": "CF Montréal",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "2 days from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591050982&tt=t.dhj&dhjLcy=164&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fatlanta-united-vs-cf-montreal-2406858&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fatlanta-united-vs-cf-montreal-2406858&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T23:30:00Z",
-      "hora_fin_utc": "2026-05-03T02:45:00Z",
-      "liga": "Soccer",
-      "equipos": "New York Red Bulls vs FC Dallas",
-      "team1": "New York Red Bulls",
-      "team2": "FC Dallas",
-      "team1_country": "usa",
-      "team2_country": "international",
-      "same_country": false,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "2 days from now",
-      "canales": [
-        {
-          "nombre": "Main Player",
-          "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591065901&tt=t.dhj&dhjLcy=71&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnew-york-red-bulls-vs-fc-dallas-2406859&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnew-york-red-bulls-vs-fc-dallas-2406859&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
-          "calidad": "HD"
-        }
-      ]
-    },
-    {
-      "hora_utc": "2026-05-02T23:30:00Z",
-      "hora_fin_utc": "2026-05-03T02:45:00Z",
-      "liga": "Soccer",
-      "equipos": "New England Revolution vs Charlotte FC",
-      "team1": "New England Revolution",
-      "team2": "Charlotte FC",
-      "team1_country": "international",
-      "team2_country": "international",
-      "same_country": true,
-      "confidence": 0.7,
-      "image": "img/soccer.png",
-      "sport": "soccer",
-      "is_individual_event": false,
-      "status_original": "2 days from now",
-      "canales": [
-        {
-          "nombre": "Main Server",
-          "url": "https://embedsports.top/embed/admin/ppv-new-england-revolution-vs-charlotte-fc/1",
-          "calidad": "HD"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "Philadelphia Phillies vs San Francisco Giants",
+    "category": "MLB",
+    "time": "2026-04-30T21:35:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-philadelphia-phillies/1",
+    "_hora_fin_utc": "2026-05-01T00:50:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-philadelphia-phillies/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22073/1",
+        "calidad": "SD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_phillies-giants-live-streaming-1292307399/1",
+        "calidad": "SD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/philadelphia-phillies-vs-san-francisco-giants-baseball-178460/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Philadelphia Phillies",
+    "_team2": "San Francisco Giants"
+  },
+  {
+    "title": "Atlanta Hawks vs New York Knicks",
+    "category": "NBA",
+    "time": "2026-04-30T23:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-new-york-knicks-vs-atlanta-hawks/1",
+    "_hora_fin_utc": "2026-05-01T02:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-new-york-knicks-vs-atlanta-hawks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22046/1",
+        "calidad": "SD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/atlanta-hawks-vs-new-york-knicks-basketball-498567/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Atlanta Hawks",
+    "_team2": "New York Knicks"
+  },
+  {
+    "title": "Indiana Fever vs Dallas Wings",
+    "category": "WNBA",
+    "time": "2026-04-30T23:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-dallas-wings-vs-indiana-fever/1",
+    "_hora_fin_utc": "2026-05-01T02:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-dallas-wings-vs-indiana-fever/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22049/1",
+        "calidad": "SD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_wnba-preseason_fever-wings-live-streaming-1284178536/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Indiana Fever",
+    "_team2": "Dallas Wings"
+  },
+  {
+    "title": "Minnesota Wild vs Dallas Stars",
+    "category": "NHL",
+    "time": "2026-04-30T23:30:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-dallas-stars-vs-minnesota-wild/1",
+    "_hora_fin_utc": "2026-05-01T02:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-dallas-stars-vs-minnesota-wild/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22050/1",
+        "calidad": "SD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/minnesota-wild-vs-dallas-stars-hockey-424433/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Minnesota Wild",
+    "_team2": "Dallas Stars"
+  },
+  {
+    "title": "Minnesota Twins vs Toronto Blue Jays",
+    "category": "MLB",
+    "time": "2026-04-30T23:40:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22082/1",
+    "_hora_fin_utc": "2026-05-01T02:55:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22082/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Minnesota Twins",
+    "_team2": "Toronto Blue Jays"
+  },
+  {
+    "title": "Louisville Kings vs St Louis BattleHawks",
+    "category": "NFL",
+    "time": "2026-05-01T00:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-st-louis-battlehawks-vs-louisville-kings/1",
+    "_hora_fin_utc": "2026-05-01T03:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-st-louis-battlehawks-vs-louisville-kings/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_ufl_louisville-kings-st-louis-battlehawks-live-streaming-1256453289/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Louisville Kings",
+    "_team2": "St Louis BattleHawks"
+  },
+  {
+    "title": "Philadelphia 76ers vs Boston Celtics",
+    "category": "NBA",
+    "time": "2026-05-01T00:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/1",
+    "_hora_fin_utc": "2026-05-01T03:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22047/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Philadelphia 76ers",
+    "_team2": "Boston Celtics"
+  },
+  {
+    "title": "Minnesota Timberwolves vs Denver Nuggets",
+    "category": "NBA",
+    "time": "2026-05-01T01:30:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-denver-nuggets-vs-minnesota-timberwolves/1",
+    "_hora_fin_utc": "2026-05-01T04:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-denver-nuggets-vs-minnesota-timberwolves/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22048/1",
+        "calidad": "SD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/minnesota-timberwolves-vs-denver-nuggets-basketball-498627/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Minnesota Timberwolves",
+    "_team2": "Denver Nuggets"
+  },
+  {
+    "title": "Anaheim Ducks vs Edmonton Oilers",
+    "category": "NHL",
+    "time": "2026-05-01T02:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-edmonton-oilers-vs-anaheim-ducks/1",
+    "_hora_fin_utc": "2026-05-01T05:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-edmonton-oilers-vs-anaheim-ducks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22051/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Anaheim Ducks",
+    "_team2": "Edmonton Oilers"
+  },
+  {
+    "title": "Miami Grand Prix Practice 1",
+    "category": "Formula 1",
+    "time": "2026-05-01T17:30:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/miami-grand-prix-practice-1-2408132",
+    "_hora_fin_utc": "2026-05-01T20:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/miami-grand-prix-practice-1-2408132",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "Miami Grand Prix Practice 1",
+    "_team2": ""
+  },
+  {
+    "title": "RKC Waalwijk vs Roda JC",
+    "category": "Soccer",
+    "time": "2026-05-01T18:00:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/rkc-waalwijk-vs-roda-jc-2468346",
+    "_hora_fin_utc": "2026-05-01T21:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/rkc-waalwijk-vs-roda-jc-2468346",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "RKC Waalwijk",
+    "_team2": "Roda JC"
+  },
+  {
+    "title": "Chicago Cubs vs Arizona Diamondbacks",
+    "category": "MLB",
+    "time": "2026-05-01T18:20:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22074/1",
+    "_hora_fin_utc": "2026-05-01T21:35:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22074/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Chicago Cubs",
+    "_team2": "Arizona Diamondbacks"
+  },
+  {
+    "title": "Pisa vs Lecce",
+    "category": "Soccer",
+    "time": "2026-05-01T18:45:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-pisa-vs-lecce/1",
+    "_hora_fin_utc": "2026-05-01T22:00:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-pisa-vs-lecce/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Pisa",
+    "_team2": "Lecce"
+  },
+  {
+    "title": "Leeds United vs Burnley",
+    "category": "Soccer",
+    "time": "2026-05-01T19:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-burnley/1",
+    "_hora_fin_utc": "2026-05-01T22:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-burnley/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22044/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Leeds United",
+    "_team2": "Burnley"
+  },
+  {
+    "title": "Girona vs Mallorca",
+    "category": "Soccer",
+    "time": "2026-05-01T19:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-girona-vs-mallorca/1",
+    "_hora_fin_utc": "2026-05-01T22:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-girona-vs-mallorca/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Girona",
+    "_team2": "Mallorca"
+  },
+  {
+    "title": "Toronto Raptors vs Cleveland Cavaliers",
+    "category": "NBA",
+    "time": "2026-05-01T20:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22066/1",
+    "_hora_fin_utc": "2026-05-01T23:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22066/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Toronto Raptors",
+    "_team2": "Cleveland Cavaliers"
+  },
+  {
+    "title": "Miami Grand Prix Sprint Qualifying",
+    "category": "Formula 1",
+    "time": "2026-05-01T20:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590080507&tt=t.dhj&dhjLcy=283&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fmiami-grand-prix-sprint-qualifying-2408133&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fmiami-grand-prix-sprint-qualifying-2408133&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-01T23:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590080507&tt=t.dhj&dhjLcy=283&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fmiami-grand-prix-sprint-qualifying-2408133&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fmiami-grand-prix-sprint-qualifying-2408133&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Miami Grand Prix Sprint Qualifying",
+    "_team2": ""
+  },
+  {
+    "title": "Detroit Tigers vs Texas Rangers",
+    "category": "MLB",
+    "time": "2026-05-01T22:40:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22076/1",
+    "_hora_fin_utc": "2026-05-02T01:55:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22076/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Detroit Tigers",
+    "_team2": "Texas Rangers"
+  },
+  {
+    "title": "Pittsburgh Pirates vs Cincinnati Reds",
+    "category": "MLB",
+    "time": "2026-05-01T22:45:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22075/1",
+    "_hora_fin_utc": "2026-05-02T02:00:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22075/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Pittsburgh Pirates",
+    "_team2": "Cincinnati Reds"
+  },
+  {
+    "title": "Washington Nationals vs Milwaukee Brewers",
+    "category": "MLB",
+    "time": "2026-05-01T22:45:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22077/1",
+    "_hora_fin_utc": "2026-05-02T02:00:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22077/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Washington Nationals",
+    "_team2": "Milwaukee Brewers"
+  },
+  {
+    "title": "Montreal Canadiens vs Tampa Bay Lightning",
+    "category": "NHL",
+    "time": "2026-05-01T23:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22068/1",
+    "_hora_fin_utc": "2026-05-02T02:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22068/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Montreal Canadiens",
+    "_team2": "Tampa Bay Lightning"
+  },
+  {
+    "title": "New York Yankees vs Baltimore Orioles",
+    "category": "MLB",
+    "time": "2026-05-01T23:05:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22078/1",
+    "_hora_fin_utc": "2026-05-02T02:20:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22078/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "New York Yankees",
+    "_team2": "Baltimore Orioles"
+  },
+  {
+    "title": "Tampa Bay Rays vs San Francisco Giants",
+    "category": "MLB",
+    "time": "2026-05-01T23:10:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22081/1",
+    "_hora_fin_utc": "2026-05-02T02:25:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22081/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Tampa Bay Rays",
+    "_team2": "San Francisco Giants"
+  },
+  {
+    "title": "Miami Marlins vs Philadelphia Phillies",
+    "category": "MLB",
+    "time": "2026-05-01T23:10:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22080/1",
+    "_hora_fin_utc": "2026-05-02T02:25:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22080/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Miami Marlins",
+    "_team2": "Philadelphia Phillies"
+  },
+  {
+    "title": "Boston Red Sox vs Houston Astros",
+    "category": "MLB",
+    "time": "2026-05-01T23:10:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22079/1",
+    "_hora_fin_utc": "2026-05-02T02:25:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22079/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Boston Red Sox",
+    "_team2": "Houston Astros"
+  },
+  {
+    "title": "Boston Bruins vs Buffalo Sabres",
+    "category": "NHL",
+    "time": "2026-05-01T23:30:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22069/1",
+    "_hora_fin_utc": "2026-05-02T02:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22069/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Boston Bruins",
+    "_team2": "Buffalo Sabres"
+  },
+  {
+    "title": "Columbus Aviators vs Houston Gamblers",
+    "category": "NFL",
+    "time": "2026-05-02T00:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-houston-gamblers-vs-columbus-aviators/1",
+    "_hora_fin_utc": "2026-05-02T03:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-houston-gamblers-vs-columbus-aviators/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Columbus Aviators",
+    "_team2": "Houston Gamblers"
+  },
+  {
+    "title": "UFC Fight Night 275 Della Maddalena vs Prates",
+    "category": "UFC",
+    "time": "2026-05-02T00:00:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/ufc-fight-night-275-della-maddalena-vs-prates-2449565",
+    "_hora_fin_utc": "2026-05-02T03:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/ufc-fight-night-275-della-maddalena-vs-prates-2449565",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "UFC Fight Night 275 Della Maddalena",
+    "_team2": "Prates"
+  },
+  {
+    "title": "Conah Walker vs Sam Eggington",
+    "category": "Boxing",
+    "time": "2026-05-02T00:00:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590286165&tt=t.dhj&dhjLcy=83&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fconah-walker-vs-sam-eggington-2466537&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fconah-walker-vs-sam-eggington-2466537&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T03:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590286165&tt=t.dhj&dhjLcy=83&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fconah-walker-vs-sam-eggington-2466537&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fconah-walker-vs-sam-eggington-2466537&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Conah Walker",
+    "_team2": "Sam Eggington"
+  },
+  {
+    "title": "Minnesota Lynx vs Toronto Tempo",
+    "category": "WNBA",
+    "time": "2026-05-02T00:00:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590300768&tt=t.dhj&dhjLcy=87&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fminnesota-lynx-vs-toronto-tempo-2465998&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fminnesota-lynx-vs-toronto-tempo-2465998&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T03:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590300768&tt=t.dhj&dhjLcy=87&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fminnesota-lynx-vs-toronto-tempo-2465998&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fminnesota-lynx-vs-toronto-tempo-2465998&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Minnesota Lynx",
+    "_team2": "Toronto Tempo"
+  },
+  {
+    "title": "SmackDown #1393",
+    "category": "WWE",
+    "time": "2026-05-02T00:00:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590314981&tt=t.dhj&dhjLcy=129&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fsmackdown-1393-2462394&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fsmackdown-1393-2462394&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T03:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590314981&tt=t.dhj&dhjLcy=129&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fsmackdown-1393-2462394&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fsmackdown-1393-2462394&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "SmackDown #1393",
+    "_team2": ""
+  },
+  {
+    "title": "Utah Mammoth vs Vegas Golden Knights",
+    "category": "NHL",
+    "time": "2026-05-02T02:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/golf/22070/1",
+    "_hora_fin_utc": "2026-05-02T05:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22070/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Utah Mammoth",
+    "_team2": "Vegas Golden Knights"
+  },
+  {
+    "title": "Villarreal vs Levante",
+    "category": "Soccer",
+    "time": "2026-05-02T12:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-villarreal-vs-levante/1",
+    "_hora_fin_utc": "2026-05-02T15:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-villarreal-vs-levante/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Villarreal",
+    "_team2": "Levante"
+  },
+  {
+    "title": "Almere City vs FC Den Bosch",
+    "category": "Soccer",
+    "time": "2026-05-02T12:00:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590366101&tt=t.dhj&dhjLcy=65&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Falmere-city-vs-fc-den-bosch-2468347&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Falmere-city-vs-fc-den-bosch-2468347&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T15:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590366101&tt=t.dhj&dhjLcy=65&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Falmere-city-vs-fc-den-bosch-2468347&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Falmere-city-vs-fc-den-bosch-2468347&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Almere City",
+    "_team2": "FC Den Bosch"
+  },
+  {
+    "title": "Udinese vs Torino",
+    "category": "Soccer",
+    "time": "2026-05-02T13:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-udinese-vs-torino/1",
+    "_hora_fin_utc": "2026-05-02T16:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-udinese-vs-torino/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Udinese",
+    "_team2": "Torino"
+  },
+  {
+    "title": "Nantes vs Marseille",
+    "category": "Soccer",
+    "time": "2026-05-02T13:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-nantes-vs-marseille/1",
+    "_hora_fin_utc": "2026-05-02T16:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-nantes-vs-marseille/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Nantes",
+    "_team2": "Marseille"
+  },
+  {
+    "title": "Bayern Munich vs FC Heidenheim",
+    "category": "Soccer",
+    "time": "2026-05-02T13:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590413446&tt=t.dhj&dhjLcy=301&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fbayern-munich-vs-fc-heidenheim-2276918&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fbayern-munich-vs-fc-heidenheim-2276918&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T16:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590413446&tt=t.dhj&dhjLcy=301&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fbayern-munich-vs-fc-heidenheim-2276918&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fbayern-munich-vs-fc-heidenheim-2276918&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Bayern Munich",
+    "_team2": "FC Heidenheim"
+  },
+  {
+    "title": "Eintracht Frankfurt vs Hamburg",
+    "category": "Soccer",
+    "time": "2026-05-02T13:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590427635&tt=t.dhj&dhjLcy=368&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Feintracht-frankfurt-vs-hamburg-2276920&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Feintracht-frankfurt-vs-hamburg-2276920&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T16:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590427635&tt=t.dhj&dhjLcy=368&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Feintracht-frankfurt-vs-hamburg-2276920&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Feintracht-frankfurt-vs-hamburg-2276920&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Eintracht Frankfurt",
+    "_team2": "Hamburg"
+  },
+  {
+    "title": "Hoffenheim vs Stuttgart",
+    "category": "Soccer",
+    "time": "2026-05-02T13:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590445047&tt=t.dhj&dhjLcy=113&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fhoffenheim-vs-stuttgart-2276922&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fhoffenheim-vs-stuttgart-2276922&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T16:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590445047&tt=t.dhj&dhjLcy=113&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fhoffenheim-vs-stuttgart-2276922&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fhoffenheim-vs-stuttgart-2276922&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Hoffenheim",
+    "_team2": "Stuttgart"
+  },
+  {
+    "title": "Union Berlin vs FC Köln",
+    "category": "Soccer",
+    "time": "2026-05-02T13:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590459033&tt=t.dhj&dhjLcy=162&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Funion-berlin-vs-fc-koln-2276924&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Funion-berlin-vs-fc-koln-2276924&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T16:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590459033&tt=t.dhj&dhjLcy=162&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Funion-berlin-vs-fc-koln-2276924&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Funion-berlin-vs-fc-koln-2276924&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Union Berlin",
+    "_team2": "FC Köln"
+  },
+  {
+    "title": "Werder Bremen vs FC Augsburg",
+    "category": "Soccer",
+    "time": "2026-05-02T13:30:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-werder-bremen-vs-fc-augsburg/1",
+    "_hora_fin_utc": "2026-05-02T16:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-werder-bremen-vs-fc-augsburg/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Werder Bremen",
+    "_team2": "FC Augsburg"
+  },
+  {
+    "title": "Brentford vs West Ham United",
+    "category": "Soccer",
+    "time": "2026-05-02T14:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-brentford-vs-west-ham-united/1",
+    "_hora_fin_utc": "2026-05-02T17:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-brentford-vs-west-ham-united/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22061/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Brentford",
+    "_team2": "West Ham United"
+  },
+  {
+    "title": "Newcastle United vs Brighton and Hove Albion",
+    "category": "Soccer",
+    "time": "2026-05-02T14:00:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590515345&tt=t.dhj&dhjLcy=287&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnewcastle-united-vs-brighton-and-hove-albion-2267421&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnewcastle-united-vs-brighton-and-hove-albion-2267421&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T17:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590515345&tt=t.dhj&dhjLcy=287&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnewcastle-united-vs-brighton-and-hove-albion-2267421&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnewcastle-united-vs-brighton-and-hove-albion-2267421&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Newcastle United",
+    "_team2": "Brighton and Hove Albion"
+  },
+  {
+    "title": "Wolverhampton Wanderers vs Sunderland",
+    "category": "Soccer",
+    "time": "2026-05-02T14:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-sunderland/1",
+    "_hora_fin_utc": "2026-05-02T17:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-sunderland/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22063/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Wolverhampton Wanderers",
+    "_team2": "Sunderland"
+  },
+  {
+    "title": "Valencia vs Atlético Madrid",
+    "category": "Soccer",
+    "time": "2026-05-02T14:15:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-valencia-vs-atl-tico-madrid/1",
+    "_hora_fin_utc": "2026-05-02T17:30:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-valencia-vs-atl-tico-madrid/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Valencia",
+    "_team2": "Atlético Madrid"
+  },
+  {
+    "title": "Arouca vs Santa Clara",
+    "category": "Soccer",
+    "time": "2026-05-02T14:30:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/arouca-vs-santa-clara-2283608",
+    "_hora_fin_utc": "2026-05-02T17:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/arouca-vs-santa-clara-2283608",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "Arouca",
+    "_team2": "Santa Clara"
+  },
+  {
+    "title": "Moreirense vs Estrela Amadora",
+    "category": "Soccer",
+    "time": "2026-05-02T14:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590596966&tt=t.dhj&dhjLcy=507&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fmoreirense-vs-estrela-amadora-2283613&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fmoreirense-vs-estrela-amadora-2283613&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T17:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590596966&tt=t.dhj&dhjLcy=507&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fmoreirense-vs-estrela-amadora-2283613&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fmoreirense-vs-estrela-amadora-2283613&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Moreirense",
+    "_team2": "Estrela Amadora"
+  },
+  {
+    "title": "Nacional de Madeira vs AVS",
+    "category": "Soccer",
+    "time": "2026-05-02T14:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590611277&tt=t.dhj&dhjLcy=233&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnacional-de-madeira-vs-avs-2283614&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnacional-de-madeira-vs-avs-2283614&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T17:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590611277&tt=t.dhj&dhjLcy=233&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnacional-de-madeira-vs-avs-2283614&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnacional-de-madeira-vs-avs-2283614&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Nacional de Madeira",
+    "_team2": "AVS"
+  },
+  {
+    "title": "Utrecht vs NAC Breda",
+    "category": "Soccer",
+    "time": "2026-05-02T14:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590625350&tt=t.dhj&dhjLcy=98&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Futrecht-vs-nac-breda-2268439&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Futrecht-vs-nac-breda-2268439&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T17:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590625350&tt=t.dhj&dhjLcy=98&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Futrecht-vs-nac-breda-2268439&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Futrecht-vs-nac-breda-2268439&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Utrecht",
+    "_team2": "NAC Breda"
+  },
+  {
+    "title": "Paris SG vs Lorient",
+    "category": "Soccer",
+    "time": "2026-05-02T15:00:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590648176&tt=t.dhj&dhjLcy=62&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fparis-sg-vs-lorient-2278395&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fparis-sg-vs-lorient-2278395&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T18:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590648176&tt=t.dhj&dhjLcy=62&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fparis-sg-vs-lorient-2278395&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fparis-sg-vs-lorient-2278395&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Paris SG",
+    "_team2": "Lorient"
+  },
+  {
+    "title": "Al-Fateh vs Neom",
+    "category": "Soccer",
+    "time": "2026-05-02T15:50:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/al-fateh-vs-neom-2311957",
+    "_hora_fin_utc": "2026-05-02T19:05:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/al-fateh-vs-neom-2311957",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "Al-Fateh",
+    "_team2": "Neom"
+  },
+  {
+    "title": "DC Defenders vs Dallas Renegades",
+    "category": "NFL",
+    "time": "2026-05-02T16:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-dallas-renegades-vs-dc-defenders/1",
+    "_hora_fin_utc": "2026-05-02T19:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-dallas-renegades-vs-dc-defenders/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "DC Defenders",
+    "_team2": "Dallas Renegades"
+  },
+  {
+    "title": "Como vs Napoli",
+    "category": "Soccer",
+    "time": "2026-05-02T16:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-como-vs-napoli/1",
+    "_hora_fin_utc": "2026-05-02T19:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-como-vs-napoli/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Como",
+    "_team2": "Napoli"
+  },
+  {
+    "title": "Miami Grand Prix Sprint",
+    "category": "Formula 1",
+    "time": "2026-05-02T16:00:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/miami-grand-prix-sprint-2408134",
+    "_hora_fin_utc": "2026-05-02T19:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/miami-grand-prix-sprint-2408134",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "Miami Grand Prix Sprint",
+    "_team2": ""
+  },
+  {
+    "title": "Damac vs Al-Khaleej",
+    "category": "Soccer",
+    "time": "2026-05-02T16:10:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590719787&tt=t.dhj&dhjLcy=106&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fdamac-vs-al-khaleej-2311964&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fdamac-vs-al-khaleej-2311964&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T19:25:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590719787&tt=t.dhj&dhjLcy=106&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fdamac-vs-al-khaleej-2311964&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fdamac-vs-al-khaleej-2311964&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Damac",
+    "_team2": "Al-Khaleej"
+  },
+  {
+    "title": "Arsenal vs Fulham",
+    "category": "Soccer",
+    "time": "2026-05-02T16:30:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-arsenal-vs-fulham/1",
+    "_hora_fin_utc": "2026-05-02T19:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-arsenal-vs-fulham/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22064/1",
+        "calidad": "SD"
+      }
+    ],
+    "_team1": "Arsenal",
+    "_team2": "Fulham"
+  },
+  {
+    "title": "Deportivo Alavés vs Athletic Bilbao",
+    "category": "Soccer",
+    "time": "2026-05-02T16:30:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/deportivo-alaves-vs-athletic-bilbao-2279724",
+    "_hora_fin_utc": "2026-05-02T19:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/deportivo-alaves-vs-athletic-bilbao-2279724",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "Deportivo Alavés",
+    "_team2": "Athletic Bilbao"
+  },
+  {
+    "title": "Bayer Leverkusen vs RB Leipzig",
+    "category": "Soccer",
+    "time": "2026-05-02T16:30:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-rb-leipzig/1",
+    "_hora_fin_utc": "2026-05-02T19:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-rb-leipzig/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Bayer Leverkusen",
+    "_team2": "RB Leipzig"
+  },
+  {
+    "title": "Groningen vs Excelsior",
+    "category": "Soccer",
+    "time": "2026-05-02T16:45:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590784024&tt=t.dhj&dhjLcy=244&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fgroningen-vs-excelsior-2268435&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fgroningen-vs-excelsior-2268435&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T20:00:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590784024&tt=t.dhj&dhjLcy=244&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fgroningen-vs-excelsior-2268435&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fgroningen-vs-excelsior-2268435&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Groningen",
+    "_team2": "Excelsior"
+  },
+  {
+    "title": "Metz vs Monaco",
+    "category": "Soccer",
+    "time": "2026-05-02T17:00:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590800089&tt=t.dhj&dhjLcy=262&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fmetz-vs-monaco-2278391&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fmetz-vs-monaco-2278391&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T20:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590800089&tt=t.dhj&dhjLcy=262&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fmetz-vs-monaco-2278391&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fmetz-vs-monaco-2278391&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Metz",
+    "_team2": "Monaco"
+  },
+  {
+    "title": "Toronto FC vs San Jose Earthquakes",
+    "category": "Soccer",
+    "time": "2026-05-02T17:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-toronto-fc-vs-san-jose-earthquakes/1",
+    "_hora_fin_utc": "2026-05-02T20:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-toronto-fc-vs-san-jose-earthquakes/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Toronto FC",
+    "_team2": "San Jose Earthquakes"
+  },
+  {
+    "title": "Famalicao vs Benfica",
+    "category": "Soccer",
+    "time": "2026-05-02T17:00:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/famalicao-vs-benfica-2283611",
+    "_hora_fin_utc": "2026-05-02T20:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/famalicao-vs-benfica-2283611",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "Famalicao",
+    "_team2": "Benfica"
+  },
+  {
+    "title": "Al-Hazem vs Al-Hilal",
+    "category": "Soccer",
+    "time": "2026-05-02T18:00:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/al-hazem-vs-al-hilal-2329856",
+    "_hora_fin_utc": "2026-05-02T21:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/al-hazem-vs-al-hilal-2329856",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "Al-Hazem",
+    "_team2": "Al-Hilal"
+  },
+  {
+    "title": "Ajax vs PSV Eindhoven",
+    "category": "Soccer",
+    "time": "2026-05-02T18:00:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590845748&tt=t.dhj&dhjLcy=91&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fajax-vs-psv-eindhoven-2268432&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fajax-vs-psv-eindhoven-2268432&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T21:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590845748&tt=t.dhj&dhjLcy=91&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fajax-vs-psv-eindhoven-2268432&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fajax-vs-psv-eindhoven-2268432&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Ajax",
+    "_team2": "PSV Eindhoven"
+  },
+  {
+    "title": "Sporting Kansas City vs Seattle Sounders",
+    "category": "Soccer",
+    "time": "2026-05-02T18:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590859929&tt=t.dhj&dhjLcy=57&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fsporting-kansas-city-vs-seattle-sounders-2406853&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fsporting-kansas-city-vs-seattle-sounders-2406853&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T21:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590859929&tt=t.dhj&dhjLcy=57&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fsporting-kansas-city-vs-seattle-sounders-2406853&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fsporting-kansas-city-vs-seattle-sounders-2406853&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Sporting Kansas City",
+    "_team2": "Seattle Sounders"
+  },
+  {
+    "title": "Atalanta vs Genoa",
+    "category": "Soccer",
+    "time": "2026-05-02T18:45:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-atalanta-vs-genoa/1",
+    "_hora_fin_utc": "2026-05-02T22:00:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-atalanta-vs-genoa/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Atalanta",
+    "_team2": "Genoa"
+  },
+  {
+    "title": "Osasuna vs Barcelona",
+    "category": "Soccer",
+    "time": "2026-05-02T19:00:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-osasuna-vs-barcelona/1",
+    "_hora_fin_utc": "2026-05-02T22:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-osasuna-vs-barcelona/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Osasuna",
+    "_team2": "Barcelona"
+  },
+  {
+    "title": "NEC Nijmegen vs SC Telstar",
+    "category": "Soccer",
+    "time": "2026-05-02T19:00:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590919864&tt=t.dhj&dhjLcy=71&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnec-nijmegen-vs-sc-telstar-2268436&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnec-nijmegen-vs-sc-telstar-2268436&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-02T22:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777590919864&tt=t.dhj&dhjLcy=71&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnec-nijmegen-vs-sc-telstar-2268436&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnec-nijmegen-vs-sc-telstar-2268436&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "NEC Nijmegen",
+    "_team2": "SC Telstar"
+  },
+  {
+    "title": "Nice vs Lens",
+    "category": "Soccer",
+    "time": "2026-05-02T19:05:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-nice-vs-lens/1",
+    "_hora_fin_utc": "2026-05-02T22:20:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-nice-vs-lens/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Nice",
+    "_team2": "Lens"
+  },
+  {
+    "title": "FC Porto vs Alverca",
+    "category": "Soccer",
+    "time": "2026-05-02T19:30:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/fc-porto-vs-alverca-2283612",
+    "_hora_fin_utc": "2026-05-02T22:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/fc-porto-vs-alverca-2283612",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "FC Porto",
+    "_team2": "Alverca"
+  },
+  {
+    "title": "Miami Grand Prix Qualifying",
+    "category": "Formula 1",
+    "time": "2026-05-02T20:00:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/miami-grand-prix-qualifying-2408135",
+    "_hora_fin_utc": "2026-05-02T23:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/miami-grand-prix-qualifying-2408135",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "Miami Grand Prix Qualifying",
+    "_team2": ""
+  },
+  {
+    "title": "Real Salt Lake vs Portland Timbers",
+    "category": "Soccer",
+    "time": "2026-05-02T20:45:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-real-salt-lake-vs-portland-timbers/1",
+    "_hora_fin_utc": "2026-05-03T00:00:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-real-salt-lake-vs-portland-timbers/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Real Salt Lake",
+    "_team2": "Portland Timbers"
+  },
+  {
+    "title": "PFL Sioux Falls Storley vs Zendeli",
+    "category": "UFC",
+    "time": "2026-05-02T23:00:00 UTC",
+    "channel": "No disponible",
+    "link": "https://istreameast.is/links/pfl-sioux-falls-storley-vs-zendeli-2452705",
+    "_hora_fin_utc": "2026-05-03T02:15:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "No disponible",
+        "url": "https://istreameast.is/links/pfl-sioux-falls-storley-vs-zendeli-2452705",
+        "calidad": "N/A"
+      }
+    ],
+    "_team1": "PFL Sioux Falls Storley",
+    "_team2": "Zendeli"
+  },
+  {
+    "title": "Inter Miami vs Orlando City",
+    "category": "Soccer",
+    "time": "2026-05-02T23:15:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591001704&tt=t.dhj&dhjLcy=223&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Finter-miami-vs-orlando-city-2406855&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Finter-miami-vs-orlando-city-2406855&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-03T02:30:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591001704&tt=t.dhj&dhjLcy=223&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Finter-miami-vs-orlando-city-2406855&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Finter-miami-vs-orlando-city-2406855&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Inter Miami",
+    "_team2": "Orlando City"
+  },
+  {
+    "title": "Philadelphia Union vs Nashville SC",
+    "category": "Soccer",
+    "time": "2026-05-02T23:30:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-philadelphia-union-vs-nashville-sc/1",
+    "_hora_fin_utc": "2026-05-03T02:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-philadelphia-union-vs-nashville-sc/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Philadelphia Union",
+    "_team2": "Nashville SC"
+  },
+  {
+    "title": "Columbus Crew vs Minnesota United",
+    "category": "Soccer",
+    "time": "2026-05-02T23:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591034511&tt=t.dhj&dhjLcy=182&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fcolumbus-crew-vs-minnesota-united-2406857&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fcolumbus-crew-vs-minnesota-united-2406857&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-03T02:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591034511&tt=t.dhj&dhjLcy=182&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fcolumbus-crew-vs-minnesota-united-2406857&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fcolumbus-crew-vs-minnesota-united-2406857&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Columbus Crew",
+    "_team2": "Minnesota United"
+  },
+  {
+    "title": "Atlanta United vs CF Montréal",
+    "category": "Soccer",
+    "time": "2026-05-02T23:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591050982&tt=t.dhj&dhjLcy=164&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fatlanta-united-vs-cf-montreal-2406858&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fatlanta-united-vs-cf-montreal-2406858&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-03T02:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591050982&tt=t.dhj&dhjLcy=164&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fatlanta-united-vs-cf-montreal-2406858&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fatlanta-united-vs-cf-montreal-2406858&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "Atlanta United",
+    "_team2": "CF Montréal"
+  },
+  {
+    "title": "New York Red Bulls vs FC Dallas",
+    "category": "Soccer",
+    "time": "2026-05-02T23:30:00 UTC",
+    "channel": "Main Player",
+    "link": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591065901&tt=t.dhj&dhjLcy=71&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnew-york-red-bulls-vs-fc-dallas-2406859&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnew-york-red-bulls-vs-fc-dallas-2406859&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+    "_hora_fin_utc": "2026-05-03T02:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Player",
+        "url": "https://t.sharethis.com/a/t_.htm?ver=1.2051.23421&cid=c010&cls=B#cid=c010&cls=B&dmn=istreameast.is&rnd=1777591065901&tt=t.dhj&dhjLcy=71&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2051.23421&ell=d&cck=__stid&pn=%2Flinks%2Fnew-york-red-bulls-vs-fc-dallas-2406859&qs=na&rdn=istreameast.is&rpn=%2Flinks%2Fnew-york-red-bulls-vs-fc-dallas-2406859&rqs=na&ipaddr=MTkwLjcwLjIxNS4xMjE%3D&cc=CO&cont=SA",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "New York Red Bulls",
+    "_team2": "FC Dallas"
+  },
+  {
+    "title": "New England Revolution vs Charlotte FC",
+    "category": "Soccer",
+    "time": "2026-05-02T23:30:00 UTC",
+    "channel": "Main Server",
+    "link": "https://embedsports.top/embed/admin/ppv-new-england-revolution-vs-charlotte-fc/1",
+    "_hora_fin_utc": "2026-05-03T02:45:00Z",
+    "_canales_completos": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-new-england-revolution-vs-charlotte-fc/1",
+        "calidad": "HD"
+      }
+    ],
+    "_team1": "New England Revolution",
+    "_team2": "Charlotte FC"
+  }
+]
