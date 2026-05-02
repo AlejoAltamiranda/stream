@@ -28,188 +28,6 @@
     "link": "https://sharkstreams.net/player.php?channel=2250"
   },
   {
-    "title": "Arizona Diamondbacks vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-05-01 18:20 UTC",
-    "channel": "2228",
-    "link": "https://sharkstreams.net/player.php?channel=2228"
-  },
-  {
-    "title": "Arizona Diamondbacks vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-05-01 18:20 UTC",
-    "channel": "2228",
-    "link": "https://sharkstreams.net/player.php?channel=2228"
-  },
-  {
-    "title": "Texas Rangers vs Detroit Tigers",
-    "category": "MLB",
-    "time": "2026-05-01 22:40 UTC",
-    "channel": "2229",
-    "link": "https://sharkstreams.net/player.php?channel=2229"
-  },
-  {
-    "title": "Texas Rangers vs Detroit Tigers",
-    "category": "MLB",
-    "time": "2026-05-01 22:40 UTC",
-    "channel": "2229",
-    "link": "https://sharkstreams.net/player.php?channel=2229"
-  },
-  {
-    "title": "Milwaukee Brewers vs Washington Nationals",
-    "category": "MLB",
-    "time": "2026-05-01 22:45 UTC",
-    "channel": "2230",
-    "link": "https://sharkstreams.net/player.php?channel=2230"
-  },
-  {
-    "title": "Milwaukee Brewers vs Washington Nationals",
-    "category": "MLB",
-    "time": "2026-05-01 22:45 UTC",
-    "channel": "2230",
-    "link": "https://sharkstreams.net/player.php?channel=2230"
-  },
-  {
-    "title": "Cincinnati Reds vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-05-01 22:45 UTC",
-    "channel": "2231",
-    "link": "https://sharkstreams.net/player.php?channel=2231"
-  },
-  {
-    "title": "Cincinnati Reds vs Pittsburgh Pirates",
-    "category": "MLB",
-    "time": "2026-05-01 22:45 UTC",
-    "channel": "2231",
-    "link": "https://sharkstreams.net/player.php?channel=2231"
-  },
-  {
-    "title": "Tampa Bay Lightning vs Montreal Canadiens",
-    "category": "NHL",
-    "time": "2026-05-01 23:00 UTC",
-    "channel": "2247",
-    "link": "https://sharkstreams.net/player.php?channel=2247"
-  },
-  {
-    "title": "Tampa Bay Lightning vs Montreal Canadiens",
-    "category": "NHL",
-    "time": "2026-05-01 23:00 UTC",
-    "channel": "2247",
-    "link": "https://sharkstreams.net/player.php?channel=2247"
-  },
-  {
-    "title": "Detroit Pistons vs Orlando Magic",
-    "category": "NBA",
-    "time": "2026-05-01 23:00 UTC",
-    "channel": "2243",
-    "link": "https://sharkstreams.net/player.php?channel=2243"
-  },
-  {
-    "title": "Detroit Pistons vs Orlando Magic",
-    "category": "NBA",
-    "time": "2026-05-01 23:00 UTC",
-    "channel": "2243",
-    "link": "https://sharkstreams.net/player.php?channel=2243"
-  },
-  {
-    "title": "Baltimore Orioles vs New York Yankees",
-    "category": "MLB",
-    "time": "2026-05-01 23:05 UTC",
-    "channel": "2232",
-    "link": "https://sharkstreams.net/player.php?channel=2232"
-  },
-  {
-    "title": "Baltimore Orioles vs New York Yankees",
-    "category": "MLB",
-    "time": "2026-05-01 23:05 UTC",
-    "channel": "2232",
-    "link": "https://sharkstreams.net/player.php?channel=2232"
-  },
-  {
-    "title": "Philadelphia Phillies vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-05-01 23:10 UTC",
-    "channel": "2233",
-    "link": "https://sharkstreams.net/player.php?channel=2233"
-  },
-  {
-    "title": "Philadelphia Phillies vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-05-01 23:10 UTC",
-    "channel": "2233",
-    "link": "https://sharkstreams.net/player.php?channel=2233"
-  },
-  {
-    "title": "San Francisco Giants vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-05-01 23:10 UTC",
-    "channel": "2235",
-    "link": "https://sharkstreams.net/player.php?channel=2235"
-  },
-  {
-    "title": "San Francisco Giants vs Tampa Bay Rays",
-    "category": "MLB",
-    "time": "2026-05-01 23:10 UTC",
-    "channel": "2235",
-    "link": "https://sharkstreams.net/player.php?channel=2235"
-  },
-  {
-    "title": "Houston Astros vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-05-01 23:10 UTC",
-    "channel": "2234",
-    "link": "https://sharkstreams.net/player.php?channel=2234"
-  },
-  {
-    "title": "Houston Astros vs Boston Red Sox",
-    "category": "MLB",
-    "time": "2026-05-01 23:10 UTC",
-    "channel": "2234",
-    "link": "https://sharkstreams.net/player.php?channel=2234"
-  },
-  {
-    "title": "Cleveland Cavaliers vs Toronto Raptors",
-    "category": "NBA",
-    "time": "2026-05-01 23:30 UTC",
-    "channel": "2244",
-    "link": "https://sharkstreams.net/player.php?channel=2244"
-  },
-  {
-    "title": "Cleveland Cavaliers vs Toronto Raptors",
-    "category": "NBA",
-    "time": "2026-05-01 23:30 UTC",
-    "channel": "2244",
-    "link": "https://sharkstreams.net/player.php?channel=2244"
-  },
-  {
-    "title": "Buffalo Sabres vs Boston Bruins",
-    "category": "NHL",
-    "time": "2026-05-01 23:30 UTC",
-    "channel": "2248",
-    "link": "https://sharkstreams.net/player.php?channel=2248"
-  },
-  {
-    "title": "Buffalo Sabres vs Boston Bruins",
-    "category": "NHL",
-    "time": "2026-05-01 23:30 UTC",
-    "channel": "2248",
-    "link": "https://sharkstreams.net/player.php?channel=2248"
-  },
-  {
-    "title": "Toronto Tempo vs Minnesota Lynx",
-    "category": "WNBA",
-    "time": "2026-05-02 00:00 UTC",
-    "channel": "2246",
-    "link": "https://sharkstreams.net/player.php?channel=2246"
-  },
-  {
-    "title": "Toronto Tempo vs Minnesota Lynx",
-    "category": "WNBA",
-    "time": "2026-05-02 00:00 UTC",
-    "channel": "2246",
-    "link": "https://sharkstreams.net/player.php?channel=2246"
-  },
-  {
     "title": "WWE: Friday Night Smackdown",
     "category": "WWE",
     "time": "2026-05-02 00:00 UTC",
@@ -224,129 +42,45 @@
     "link": "https://sharkstreams.net/player.php?channel=2251"
   },
   {
-    "title": "Toronto Blue Jays vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-05-02 00:10 UTC",
-    "channel": "2236",
-    "link": "https://sharkstreams.net/player.php?channel=2236"
+    "title": "Nigeria National Team vs Indiana Fever",
+    "category": "WNBA",
+    "time": "2026-05-02 23:00 UTC",
+    "channel": "2255",
+    "link": "https://sharkstreams.net/player.php?channel=2255"
   },
   {
-    "title": "Toronto Blue Jays vs Minnesota Twins",
-    "category": "MLB",
-    "time": "2026-05-02 00:10 UTC",
-    "channel": "2236",
-    "link": "https://sharkstreams.net/player.php?channel=2236"
+    "title": "Nigeria National Team vs Indiana Fever",
+    "category": "WNBA",
+    "time": "2026-05-02 23:00 UTC",
+    "channel": "2255",
+    "link": "https://sharkstreams.net/player.php?channel=2255"
   },
   {
-    "title": "Los Angeles Dodgers vs St. Louis Cardinals",
-    "category": "MLB",
-    "time": "2026-05-02 00:15 UTC",
-    "channel": "2237",
-    "link": "https://sharkstreams.net/player.php?channel=2237"
-  },
-  {
-    "title": "Los Angeles Dodgers vs St. Louis Cardinals",
-    "category": "MLB",
-    "time": "2026-05-02 00:15 UTC",
-    "channel": "2237",
-    "link": "https://sharkstreams.net/player.php?channel=2237"
-  },
-  {
-    "title": "Atlanta Braves vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-05-02 00:40 UTC",
-    "channel": "2238",
-    "link": "https://sharkstreams.net/player.php?channel=2238"
-  },
-  {
-    "title": "Atlanta Braves vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-05-02 00:40 UTC",
-    "channel": "2238",
-    "link": "https://sharkstreams.net/player.php?channel=2238"
-  },
-  {
-    "title": "Los Angeles Lakers vs Houston Rockets",
+    "title": "Philadelphia 76ers vs Boston Celtics",
     "category": "NBA",
-    "time": "2026-05-02 01:30 UTC",
-    "channel": "2245",
-    "link": "https://sharkstreams.net/player.php?channel=2245"
+    "time": "2026-05-02 23:30 UTC",
+    "channel": "2253",
+    "link": "https://sharkstreams.net/player.php?channel=2253"
   },
   {
-    "title": "Los Angeles Lakers vs Houston Rockets",
+    "title": "Philadelphia 76ers vs Boston Celtics",
     "category": "NBA",
-    "time": "2026-05-02 01:30 UTC",
-    "channel": "2245",
-    "link": "https://sharkstreams.net/player.php?channel=2245"
+    "time": "2026-05-02 23:30 UTC",
+    "channel": "2253",
+    "link": "https://sharkstreams.net/player.php?channel=2253"
   },
   {
-    "title": "New York Mets vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-05-02 01:38 UTC",
-    "channel": "2239",
-    "link": "https://sharkstreams.net/player.php?channel=2239"
-  },
-  {
-    "title": "New York Mets vs Los Angeles Angels",
-    "category": "MLB",
-    "time": "2026-05-02 01:38 UTC",
-    "channel": "2239",
-    "link": "https://sharkstreams.net/player.php?channel=2239"
-  },
-  {
-    "title": "Chicago White Sox vs San Diego Padres",
-    "category": "MLB",
-    "time": "2026-05-02 01:40 UTC",
-    "channel": "2240",
-    "link": "https://sharkstreams.net/player.php?channel=2240"
-  },
-  {
-    "title": "Chicago White Sox vs San Diego Padres",
-    "category": "MLB",
-    "time": "2026-05-02 01:40 UTC",
-    "channel": "2240",
-    "link": "https://sharkstreams.net/player.php?channel=2240"
-  },
-  {
-    "title": "Cleveland Guardians vs Athletics",
-    "category": "MLB",
-    "time": "2026-05-02 01:40 UTC",
-    "channel": "2241",
-    "link": "https://sharkstreams.net/player.php?channel=2241"
-  },
-  {
-    "title": "Cleveland Guardians vs Athletics",
-    "category": "MLB",
-    "time": "2026-05-02 01:40 UTC",
-    "channel": "2241",
-    "link": "https://sharkstreams.net/player.php?channel=2241"
-  },
-  {
-    "title": "Kansas City Royals vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-05-02 01:45 UTC",
-    "channel": "2242",
-    "link": "https://sharkstreams.net/player.php?channel=2242"
-  },
-  {
-    "title": "Kansas City Royals vs Seattle Mariners",
-    "category": "MLB",
-    "time": "2026-05-02 01:45 UTC",
-    "channel": "2242",
-    "link": "https://sharkstreams.net/player.php?channel=2242"
-  },
-  {
-    "title": "Vegas Golden Knights vs Utah Mammoth",
+    "title": "Philadelphia Flyers vs Carolina Hurricanes",
     "category": "NHL",
-    "time": "2026-05-02 02:00 UTC",
-    "channel": "2249",
-    "link": "https://sharkstreams.net/player.php?channel=2249"
+    "time": "2026-05-03 00:00 UTC",
+    "channel": "2254",
+    "link": "https://sharkstreams.net/player.php?channel=2254"
   },
   {
-    "title": "Vegas Golden Knights vs Utah Mammoth",
+    "title": "Philadelphia Flyers vs Carolina Hurricanes",
     "category": "NHL",
-    "time": "2026-05-02 02:00 UTC",
-    "channel": "2249",
-    "link": "https://sharkstreams.net/player.php?channel=2249"
+    "time": "2026-05-03 00:00 UTC",
+    "channel": "2254",
+    "link": "https://sharkstreams.net/player.php?channel=2254"
   }
 ]
