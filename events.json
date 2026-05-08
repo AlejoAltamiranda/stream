@@ -1,117 +1,5 @@
 [
   {
-    "title": "Texas Rangers vs New York Yankees",
-    "category": "MLB",
-    "time": "2026-05-07 16:35 UTC",
-    "channel": "2368",
-    "link": "https://sharkstreams.net/player.php?channel=2368"
-  },
-  {
-    "title": "Texas Rangers vs New York Yankees",
-    "category": "MLB",
-    "time": "2026-05-07 16:35 UTC",
-    "channel": "2368",
-    "link": "https://sharkstreams.net/player.php?channel=2368"
-  },
-  {
-    "title": "Minnesota Twins vs Washington Nationals",
-    "category": "MLB",
-    "time": "2026-05-07 17:05 UTC",
-    "channel": "2369",
-    "link": "https://sharkstreams.net/player.php?channel=2369"
-  },
-  {
-    "title": "Minnesota Twins vs Washington Nationals",
-    "category": "MLB",
-    "time": "2026-05-07 17:05 UTC",
-    "channel": "2369",
-    "link": "https://sharkstreams.net/player.php?channel=2369"
-  },
-  {
-    "title": "Cleveland Guardians vs Kansas City Royals",
-    "category": "MLB",
-    "time": "2026-05-07 18:10 UTC",
-    "channel": "2370",
-    "link": "https://sharkstreams.net/player.php?channel=2370"
-  },
-  {
-    "title": "Cleveland Guardians vs Kansas City Royals",
-    "category": "MLB",
-    "time": "2026-05-07 18:10 UTC",
-    "channel": "2370",
-    "link": "https://sharkstreams.net/player.php?channel=2370"
-  },
-  {
-    "title": "Cincinnati Reds vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-05-07 18:20 UTC",
-    "channel": "2371",
-    "link": "https://sharkstreams.net/player.php?channel=2371"
-  },
-  {
-    "title": "Cincinnati Reds vs Chicago Cubs",
-    "category": "MLB",
-    "time": "2026-05-07 18:20 UTC",
-    "channel": "2371",
-    "link": "https://sharkstreams.net/player.php?channel=2371"
-  },
-  {
-    "title": "New York Mets vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-05-07 19:10 UTC",
-    "channel": "2372",
-    "link": "https://sharkstreams.net/player.php?channel=2372"
-  },
-  {
-    "title": "New York Mets vs Colorado Rockies",
-    "category": "MLB",
-    "time": "2026-05-07 19:10 UTC",
-    "channel": "2372",
-    "link": "https://sharkstreams.net/player.php?channel=2372"
-  },
-  {
-    "title": "Pittsburgh Pirates vs Arizona Diamondbacks",
-    "category": "MLB",
-    "time": "2026-05-07 19:40 UTC",
-    "channel": "2373",
-    "link": "https://sharkstreams.net/player.php?channel=2373"
-  },
-  {
-    "title": "Pittsburgh Pirates vs Arizona Diamondbacks",
-    "category": "MLB",
-    "time": "2026-05-07 19:40 UTC",
-    "channel": "2373",
-    "link": "https://sharkstreams.net/player.php?channel=2373"
-  },
-  {
-    "title": "Baltimore Orioles vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-05-07 22:40 UTC",
-    "channel": "2375",
-    "link": "https://sharkstreams.net/player.php?channel=2375"
-  },
-  {
-    "title": "Baltimore Orioles vs Miami Marlins",
-    "category": "MLB",
-    "time": "2026-05-07 22:40 UTC",
-    "channel": "2375",
-    "link": "https://sharkstreams.net/player.php?channel=2375"
-  },
-  {
-    "title": "Athletics vs Philadelphia Phillies",
-    "category": "MLB",
-    "time": "2026-05-07 22:40 UTC",
-    "channel": "2374",
-    "link": "https://sharkstreams.net/player.php?channel=2374"
-  },
-  {
-    "title": "Athletics vs Philadelphia Phillies",
-    "category": "MLB",
-    "time": "2026-05-07 22:40 UTC",
-    "channel": "2374",
-    "link": "https://sharkstreams.net/player.php?channel=2374"
-  },
-  {
     "title": "Cleveland Cavaliers vs Detroit Pistons",
     "category": "NBA",
     "time": "2026-05-07 23:00 UTC",
@@ -182,6 +70,34 @@
     "link": "https://sharkstreams.net/player.php?channel=2377"
   },
   {
+    "title": "ACA 203: Gaforov vs Akopyan :MMA Championship",
+    "category": "MMA",
+    "time": "2026-05-08 11:00 UTC",
+    "channel": "2381",
+    "link": "https://sharkstreams.net/player.php?channel=2381"
+  },
+  {
+    "title": "ACA 203: Gaforov vs Akopyan :MMA Championship",
+    "category": "MMA",
+    "time": "2026-05-08 11:00 UTC",
+    "channel": "2381",
+    "link": "https://sharkstreams.net/player.php?channel=2381"
+  },
+  {
+    "title": "Connecticut Sun vs New York Liberty",
+    "category": "WNBA",
+    "time": "2026-05-08 23:30 UTC",
+    "channel": "2301",
+    "link": "https://sharkstreams.net/player.php?channel=2301"
+  },
+  {
+    "title": "Connecticut Sun vs New York Liberty",
+    "category": "WNBA",
+    "time": "2026-05-08 23:30 UTC",
+    "channel": "2301",
+    "link": "https://sharkstreams.net/player.php?channel=2301"
+  },
+  {
     "title": "Washington Mystics vs Toronto Tempo",
     "category": "WNBA",
     "time": "2026-05-08 23:30 UTC",
@@ -194,20 +110,6 @@
     "time": "2026-05-08 23:30 UTC",
     "channel": "2302",
     "link": "https://sharkstreams.net/player.php?channel=2302"
-  },
-  {
-    "title": "Connecticut Sun vs New York Liberty",
-    "category": "WNBA",
-    "time": "2026-05-08 23:30 UTC",
-    "channel": "2301",
-    "link": "https://sharkstreams.net/player.php?channel=2301"
-  },
-  {
-    "title": "Connecticut Sun vs New York Liberty",
-    "category": "WNBA",
-    "time": "2026-05-08 23:30 UTC",
-    "channel": "2301",
-    "link": "https://sharkstreams.net/player.php?channel=2301"
   },
   {
     "title": "Golden State Valkyries vs Seattle Storm",
